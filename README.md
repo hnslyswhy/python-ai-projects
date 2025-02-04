@@ -8,8 +8,8 @@
 
 - Create .env file with
 ```
-GOOGLE_API_KEY=""
-GROQ_API_KEY="" // https://groq.com/
+GOOGLE_API_KEY="" // get from https://aistudio.google.com/apikey
+GROQ_API_KEY="" // get from https://groq.com/
 ```
 
 
