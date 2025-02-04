@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+python-dotenv
+watchdog
+
+langchain
+PyPDF2
+faiss-cpu
+langchain-google-genai
+langchain_community
+
+groq
+langchain-groq
+pypdf
+
+youtube-transcript-api
+pathlib
